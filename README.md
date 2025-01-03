@@ -11,7 +11,6 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/smart-seeds
 - https://modrinth.com/datapack/blood-moon
 - https://modrinth.com/datapack/hopo-better-mineshaft
-- https://modrinth.com/datapack/immersive-structures
 - https://modrinth.com/datapack/mob-captains
 - https://modrinth.com/datapack/hopo-better-underwater-ruins
 - https://modrinth.com/datapack/tidal-towns
@@ -20,4 +19,3 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/dungeons-and-taverns
 - https://www.planetminecraft.com/data-pack/vanilla-dungeons-6223921/
 - https://www.planetminecraft.com/data-pack/new-ruined-portals-remastered-structures-1-19-to-1-20-4-datapack/
-- https://modrinth.com/datapack/rogue-craft
