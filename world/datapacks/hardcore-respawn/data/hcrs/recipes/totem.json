@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:gold_block"
+        },
+        {
+            "item": "minecraft:gold_block"
+        },
+        {
+            "item": "minecraft:gold_block"
+        },
+        {
+            "item": "minecraft:gold_block"
+        },
+        {
+            "item": "minecraft:player_head"
+        },
+        {
+            "item": "minecraft:diamond_block"
+        },
+        {
+            "item": "minecraft:diamond_block"
+        },
+        {
+            "item": "minecraft:diamond_block"
+        },
+        {
+            "item": "minecraft:diamond_block"
+        }
+    ],
+    "result": {
+        "item": "minecraft:totem_of_undying",
+        "count": 1
+    }
+}
