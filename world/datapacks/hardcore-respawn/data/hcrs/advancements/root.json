@@ -1,0 +1,43 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "criteria": {
+        "head": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:player_head"
+                    }
+                ]
+            }
+        },
+        "totem": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:totem_of_undying"
+                    }
+                ]
+            }
+        },
+        "has_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "hcrs:totem"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "head",
+            "totem",
+            "has_recipe"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "hcrs:totem"
+        ]
+    }
+}
