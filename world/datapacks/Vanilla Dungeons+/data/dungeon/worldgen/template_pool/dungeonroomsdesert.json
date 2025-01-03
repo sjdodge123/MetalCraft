@@ -1,0 +1,177 @@
+{
+  "name": "dungeon:dungeonroomsdesert",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 50,
+      "element": {
+        "location": "dungeon:roomsdesert/infestedzombiedesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {	
+      "weight": 45,
+      "element": {
+        "location": "dungeon:roomsdesert/spidertalldesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 30,
+      "element": {
+        "location": "dungeon:roomsdesert/skeletondispenserdesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 35,
+      "element": {
+        "location": "dungeon:roomsdesert/skeletondripstonedesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 25,
+      "element": {
+        "location": "dungeon:roomsdesert/trappedchestdesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 65,
+      "element": {
+        "location": "dungeon:roomsdesert/zombiecrossroaddesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 40,
+      "element": {
+        "location": "dungeon:roomsdesert/mazedesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 10,
+      "element": {
+        "location": "dungeon:roomsdesert/treasureroomdesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 60,
+      "element": {
+        "location": "dungeon:roomsdesert/spiderwebdesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 20,
+      "element": {
+        "location": "dungeon:roomsdesert/oasisdesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 30,
+      "element": {
+        "location": "dungeon:roomsdesert/jaildesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 25,
+      "element": {
+        "location": "dungeon:roomsdesert/stabledesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+{
+      "weight": 75,
+      "element": {
+        "location": "dungeon:hallwaysdesert/mineshafthall1desert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+{
+      "weight": 75,
+      "element": {
+        "location": "dungeon:hallwaysdesert/mineshafthall2desert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+{
+      "weight": 55,
+      "element": {
+        "location": "dungeon:hallwaysdesert/dighalldesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+{
+      "weight": 35,
+      "element": {
+        "location": "dungeon:hallwaysdesert/traphalldesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+{
+      "weight": 60,
+      "element": {
+        "location": "dungeon:hallwaysdesert/stairsdesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+{
+      "weight": 70,
+      "element": {
+        "location": "dungeon:hallwaysdesert/mineshaftjunctiondesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+{
+      "weight": 45,
+      "element": {
+        "location": "dungeon:hallwaysdesert/brokenhalldesert",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

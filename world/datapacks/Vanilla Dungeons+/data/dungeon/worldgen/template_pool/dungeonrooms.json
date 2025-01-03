@@ -1,0 +1,177 @@
+{
+  "name": "dungeon:dungeonrooms",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 50,
+      "element": {
+        "location": "dungeon:rooms/infestedzombie",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 45,
+      "element": {
+        "location": "dungeon:rooms/spidertall",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 30,
+      "element": {
+        "location": "dungeon:rooms/skeletondispenser",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 35,
+      "element": {
+        "location": "dungeon:rooms/skeletondripstone",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 25,
+      "element": {
+        "location": "dungeon:rooms/trappedchest",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 65,
+      "element": {
+        "location": "dungeon:rooms/zombiecrossroad",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 40,
+      "element": {
+        "location": "dungeon:rooms/maze",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 10,
+      "element": {
+        "location": "dungeon:rooms/treasureroom",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 60,
+      "element": {
+        "location": "dungeon:rooms/spiderweb",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 20,
+      "element": {
+        "location": "dungeon:rooms/oasis",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 30,
+      "element": {
+        "location": "dungeon:rooms/jail",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+ {
+      "weight": 25,
+      "element": {
+        "location": "dungeon:rooms/stable",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+{
+      "weight": 75,
+      "element": {
+        "location": "dungeon:hallways/mineshafthall1",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+{
+      "weight": 75,
+      "element": {
+        "location": "dungeon:hallways/mineshafthall2",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+{
+      "weight": 55,
+      "element": {
+        "location": "dungeon:hallways/dighall",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+{
+      "weight": 35,
+      "element": {
+        "location": "dungeon:hallways/traphall",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+{
+      "weight": 60,
+      "element": {
+        "location": "dungeon:hallways/stairs",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+{
+      "weight": 70,
+      "element": {
+        "location": "dungeon:hallways/mineshaftjunction",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+{
+      "weight": 45,
+      "element": {
+        "location": "dungeon:hallways/brokenhall",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
