@@ -19,3 +19,7 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/dungeons-and-taverns
 - https://www.planetminecraft.com/data-pack/vanilla-dungeons-6223921/
 - https://www.planetminecraft.com/data-pack/new-ruined-portals-remastered-structures-1-19-to-1-20-4-datapack/
+- https://www.planetminecraft.com/data-pack/clock-n-compasses/
+- https://www.planetminecraft.com/data-pack/shield-parry/
+- https://www.planetminecraft.com/data-pack/enhanced-woods/
+- https://www.planetminecraft.com/data-pack/custom-day-cycle-length/
