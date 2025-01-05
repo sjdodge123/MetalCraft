@@ -23,3 +23,4 @@ Contains the following Datapacks
 - https://www.planetminecraft.com/data-pack/shield-parry/
 - https://www.planetminecraft.com/data-pack/enhanced-woods/
 - https://www.planetminecraft.com/data-pack/custom-day-cycle-length/
+- https://modrinth.com/datapack/hardcore-revive-plus
