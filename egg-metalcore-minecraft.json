@@ -4,7 +4,7 @@
         "version": "PLCN_v1",
         "update_url": null
     },
-    "exported_at": "2025-01-03T17:01:55+00:00",
+    "exported_at": "2025-01-06T20:50:28+00:00",
     "name": "Metalcore Minecraft",
     "author": "panel@example.com",
     "uuid": "9ac39f3d-0c34-4d93-8174-c52ab9e6c57d",
@@ -24,7 +24,7 @@
     "file_denylist": [],
     "startup": "java -Xms128M -XX:MaxRAMPercentage=95.0 -jar {{SERVER_JARFILE}}",
     "config": {
-        "files": "{\n    \"server.properties\": {\n        \"parser\": \"properties\",\n        \"find\": {\n            \"server-ip\": \"0.0.0.0\",\n            \"server-port\": \"{{server.allocations.default.port}}\",\n            \"query.port\": \"{{server.allocations.default.port}}\",\n\"resource-pack\":\"https:\/\/download.mc-packs.net\/pack\/c4c85ca456d5b59a79f7d4f164d9a0e89aa20dbb.zip\",\n\"resource-pack-sha1\":\"c4c85ca456d5b59a79f7d4f164d9a0e89aa20dbb\",\n            \"hardcore\": \"true\"\n        }\n    },\n\"eula.txt\": {\n        \"parser\": \"properties\",\n        \"find\": {\n            \"eula\": \"true\"\n        }\n    }\n}",
+        "files": "{\n    \"server.properties\": {\n        \"parser\": \"properties\",\n        \"find\": {\n            \"server-ip\": \"0.0.0.0\",\n            \"server-port\": \"{{server.allocations.default.port}}\",\n            \"query.port\": \"{{server.allocations.default.port}}\",\n\"motd\":\"Minecraft Metalcore\",\n\"default-player-permission-level\":\"operator\",\n\"resource-pack\":\"https:\/\/download.mc-packs.net\/pack\/c4c85ca456d5b59a79f7d4f164d9a0e89aa20dbb.zip\",\n\"resource-pack-sha1\":\"c4c85ca456d5b59a79f7d4f164d9a0e89aa20dbb\",\n            \"hardcore\": \"true\"\n        }\n    },\n\"eula.txt\": {\n        \"parser\": \"properties\",\n        \"find\": {\n            \"eula\": \"true\"\n        }\n    }\n}",
         "startup": "{\r\n    \"done\": \")! For help, type \"\r\n}",
         "logs": "{}",
         "stop": "stop"
