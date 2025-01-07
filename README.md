@@ -51,3 +51,11 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/qraftyfied
 - https://modrinth.com/datapack/wabi-sabi-structures
 - https://modrinth.com/datapack/tick-manager
+- https://modrinth.com/datapack/dungeons+
+- https://modrinth.com/datapack/more-mobs
+- https://modrinth.com/datapack/dungeons-and-taverns-ancient-city-overhaul
+- https://modrinth.com/datapack/dungeons-and-taverns-stronghold-overhaul
+- https://modrinth.com/datapack/hearths
+- https://modrinth.com/datapack/gm4-better-fire
+- https://www.planetminecraft.com/data-pack/adrenaline-rush/
+- https://modrinth.com/datapack/timber-strike
