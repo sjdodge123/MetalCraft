@@ -30,7 +30,6 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/strayed-fates-forsaken
 - https://modrinth.com/datapack/structory
 - https://modrinth.com/datapack/spellbound-weapons
-- https://modrinth.com/datapack/physical-falling-trees
 - https://modrinth.com/datapack/improved-pillager-outpost
 - https://modrinth.com/datapack/netherweather
 - https://modrinth.com/datapack/climbable-chains
