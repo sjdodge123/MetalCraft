@@ -51,4 +51,3 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/qraftyfied
 - https://modrinth.com/datapack/wabi-sabi-structures
 - https://modrinth.com/datapack/tick-manager
-- https://modrinth.com/datapack/clear-lag
