@@ -1,5 +1,5 @@
-# MetalCore
-Files for the MetalCore Pelican Egg Hardcore Minecraft server. A collection of data packs that give hardcore minecraft a bit more progression while still allowing for some revival mechanics
+# MetalCraft
+Files for the MetalCraft Pelican Egg Hardcore Minecraft server. A collection of data packs that give hardcore minecraft a bit more progression while still allowing for some revival mechanics
 
 
 Contains the following Datapacks
