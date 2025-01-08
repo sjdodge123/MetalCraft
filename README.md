@@ -58,3 +58,6 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/gm4-better-fire
 - https://www.planetminecraft.com/data-pack/adrenaline-rush/
 - https://modrinth.com/datapack/timber-strike
+- https://modrinth.com/datapack/better-end-cities-(vanilla)/gallery
+- https://modrinth.com/datapack/structory-towers
+- https://modrinth.com/plugin/chunky
