@@ -61,3 +61,4 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/better-end-cities-(vanilla)/gallery
 - https://modrinth.com/datapack/structory-towers
 - https://modrinth.com/plugin/chunky
+- https://modrinth.com/datapack/scorched
