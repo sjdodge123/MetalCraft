@@ -76,7 +76,6 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/pause-day-cycle
 - https://modrinth.com/datapack/afk-dim-names
 - https://modrinth.com/datapack/afk-message
-- https://modrinth.com/datapack/gm4-undead-players
 - https://modrinth.com/datapack/dimension-messages
 - https://modrinth.com/datapack/tqs-track-playtime-in-tab
 - https://modrinth.com/datapack/gm4-enderman-support-class
