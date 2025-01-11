@@ -62,3 +62,11 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/structory-towers
 - https://modrinth.com/plugin/chunky
 - https://modrinth.com/datapack/scorched
+- https://modrinth.com/datapack/totemdeathmessagesbon
+- https://modrinth.com/datapack/craftable-totem-of-undying
+- https://modrinth.com/datapack/magic-sorting-system-reworked-1.20
+- https://modrinth.com/datapack/stackable-stews
+- https://modrinth.com/datapack/gm4-metallurgy?version=1.21.4
+- https://modrinth.com/datapack/conures-graves
+- https://modrinth.com/datapack/gorify
+- https://modrinth.com/datapack/vaults-of-abandon
