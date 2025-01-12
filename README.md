@@ -21,7 +21,6 @@ Contains the following Datapacks
 - https://www.planetminecraft.com/data-pack/shield-parry/
 - https://www.planetminecraft.com/data-pack/enhanced-woods/
 - https://www.planetminecraft.com/data-pack/custom-day-cycle-length/
-- https://modrinth.com/datapack/hardcore-revive-plus
 - https://modrinth.com/datapack/seasons
 - https://modrinth.com/datapack/vanilla-refresh
 - https://modrinth.com/datapack/racks
@@ -91,3 +90,4 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/name-tag
 - https://modrinth.com/datapack/pale-formations
 - https://modrinth.com/datapack/rarity-tooltips
+- https://modrinth.com/datapack/hardcore-revive-reloaded
