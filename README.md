@@ -1,6 +1,8 @@
 # MetalCraft
 Files for the MetalCraft Pelican Egg Hardcore Minecraft server. A collection of data packs that give hardcore minecraft a bit more progression while still allowing for some revival mechanics
 
+*Compatible with Vanilla Minecraft version 1.21.4*
+
 
 Contains the following Datapacks
 - https://modrinth.com/datapack/spawn-animations
@@ -90,4 +92,5 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/name-tag
 - https://modrinth.com/datapack/pale-formations
 - https://modrinth.com/datapack/rarity-tooltips
-- https://modrinth.com/datapack/hardcore-revive-reloaded
+- https://modrinth.com/datapack/hardcore-revive-plus
+- https://modrinth.com/datapack/better-furnace
