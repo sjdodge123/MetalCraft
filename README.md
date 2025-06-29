@@ -94,3 +94,4 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/rarity-tooltips
 - https://modrinth.com/datapack/hardcore-revive-plus
 - https://modrinth.com/datapack/better-furnace
+- https://wiki.aurelium.dev/auraskills
