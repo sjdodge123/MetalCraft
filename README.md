@@ -95,3 +95,5 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/hardcore-revive-plus
 - https://modrinth.com/datapack/better-furnace
 - https://wiki.aurelium.dev/auraskills
+- https://modrinth.com/datapack/multiplayer-sleep
+- https://modrinth.com/datapack/craftable-nether-star
