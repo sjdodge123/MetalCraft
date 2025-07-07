@@ -6,7 +6,7 @@ Files for the MetalCraft Pelican Egg Hardcore Minecraft server. A collection of 
 
 Contains the following Datapacks
 - https://modrinth.com/datapack/spawn-animations
-- https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-1-12/
+- https://modrinth.com/datapack/blazeandcaves-advancements-pack
 - https://modrinth.com/datapack/better-vanilla-mobs
 - https://modrinth.com/datapack/gm4-desire-lines
 - https://modrinth.com/datapack/smart-seeds
