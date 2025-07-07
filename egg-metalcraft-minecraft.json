@@ -4,7 +4,7 @@
         "version": "PLCN_v1",
         "update_url": null
     },
-    "exported_at": "2025-01-12T06:58:40+00:00",
+    "exported_at": "2025-07-07T17:30:36+00:00",
     "name": "Metalcraft Minecraft",
     "author": "panel@example.com",
     "uuid": "9ac39f3d-0c34-4d93-8174-c52ab9e6c57d",
@@ -54,7 +54,7 @@
             "name": "Server Version",
             "description": "The version of Minecraft Vanilla to install. Use \"latest\" to install the latest version, or use \"snapshot\" to install the latest snapshot. Go to Settings > Reinstall Server to apply.",
             "env_variable": "VANILLA_VERSION",
-            "default_value": "latest",
+            "default_value": "1.21.4",
             "user_viewable": true,
             "user_editable": true,
             "rules": [
