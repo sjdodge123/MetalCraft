@@ -105,3 +105,4 @@ Contains the following Datapacks
 - https://gm4.co/modules/ink-spitting-squid
 - https://gm4.co/modules/guidebook
 - https://gm4.co/modules/apple-trees
+- https://modrinth.com/datapack/immersive-sound
