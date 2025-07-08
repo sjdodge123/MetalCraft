@@ -14,5 +14,6 @@ command /init:
     permission message: You don't have permission to init the server
     cooldown: 15 seconds
     executable by: players and console
-    trigger: execute console command "/function minicore:settings/menus/lives/toggles/lives_5"
-             broadcast "&a[Server] initial lives set to 5."
+    trigger: 
+        execute console command "/function minicore:settings/menus/lives/toggles/lives_5"
+        broadcast "&a[Server] initial lives set to 5."
