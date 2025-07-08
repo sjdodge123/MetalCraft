@@ -1,4 +1,4 @@
-# difficulty_control.sk
+# metalcraft.sk
 
 # Set difficulty to easy when the server starts
 on Skript start:
@@ -8,6 +8,9 @@ on Skript start:
 on first join:
     broadcast "%player% has entered MetalCraft. May the gods have mercy on their soul."
     play sound "ENTITY_LIGHTNING_BOLT_THUNDER"
+
+on level change:
+   play sound "custom.metal_intro" to the player
 
 command /init:
     usage: A command to set up the MetalCraft server.
