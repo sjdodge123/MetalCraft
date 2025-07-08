@@ -1,0 +1,2 @@
+on skript start:
+    set the difficulty of "world" to normal
