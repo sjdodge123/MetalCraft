@@ -3,6 +3,7 @@
 # Set difficulty to easy when the server starts
 on Skript start:
     set the difficulty of "world" to easy
+    execute console command "/minicore:life_reset_5"
     broadcast "&a[Server] Difficulty set to &eeasy&a on startup."
 
 # Modify the /difficulty command
@@ -19,4 +20,5 @@ command /difficulty [<text>]:
             set the difficulty of "world" to {_arg}
             broadcast "&aServer difficulty set to &e%{_arg}%&a."
         else:
-            broadcast "&aCurrent server difficulty is &e%difficulty%&a."
+            {dc} = get the difficulty of "world"
+            broadcast "&aCurrent server difficulty is &e%{dc}%&a."
