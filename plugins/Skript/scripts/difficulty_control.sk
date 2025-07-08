@@ -2,7 +2,7 @@
 
 # Set difficulty to easy when the server starts
 on Skript start:
-    set the difficulty to easy
+    set the difficulty of "world" to easy
     broadcast "&a[Server] Difficulty set to &eeasy&a on startup."
 
 # Modify the /difficulty command
@@ -14,9 +14,9 @@ command /difficulty [<text>]:
         if argument is set:
             set {_arg} to argument parsed as difficulty
             if {_arg} is not set:
-                send "&cInvalid difficulty. Use peaceful, easy, normal, or hard."
+                broadcast "&cInvalid difficulty. Use peaceful, easy, normal, or hard."
                 stop
-            set the difficulty to {_arg}
-            send "&aServer difficulty set to &e%{_arg}%&a."
+            set the difficulty of "world" to {_arg}
+            broadcast "&aServer difficulty set to &e%{_arg}%&a."
         else:
-            send "&aCurrent server difficulty is &e%difficulty%&a."
+            broadcast "&aCurrent server difficulty is &e%difficulty%&a."
