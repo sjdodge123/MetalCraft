@@ -1,7 +1,7 @@
 # difficulty_control.sk
 
 # Set difficulty to easy when the server starts
-on server start:
+on Skript start:
     set the difficulty to easy
     broadcast "&a[Server] Difficulty set to &eeasy&a on startup."
 
@@ -11,8 +11,8 @@ command /difficulty [<text>]:
     usage: /difficulty [peaceful|easy|normal|hard]
     permission: skript.command.difficulty
     trigger:
-        if arg is set:
-            set {_arg} to arg parsed as difficulty
+        if argument is set:
+            set {_arg} to argument parsed as difficulty
             if {_arg} is not set:
                 send "&cInvalid difficulty. Use peaceful, easy, normal, or hard."
                 stop
