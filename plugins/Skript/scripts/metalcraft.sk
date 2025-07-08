@@ -12,6 +12,10 @@ on first join:
 on level change:
    play sound "custom.metal_intro" to the player
 
+command /metal:
+    trigger:
+        play sound "custom.metal_intro"
+
 command /init:
     usage: A command to set up the MetalCraft server.
     permission: skript.command.broadcast
