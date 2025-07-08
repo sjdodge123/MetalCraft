@@ -3,22 +3,16 @@
 # Set difficulty to easy when the server starts
 on Skript start:
     set the difficulty of "world" to easy
-    execute console command "/function minicore:settings/menus/lives/toggles/lives_5"
     broadcast "&a[Server] Difficulty set to &eeasy&a on startup."
 
-# Modify the /difficulty command
-command /difficulty [<text>]:
-    description: Changes or shows the current server difficulty
-    usage: /difficulty [peaceful|easy|normal|hard]
-    permission: skript.command.difficulty
-    trigger:
-        if argument is set:
-            set {_arg} to argument parsed as difficulty
-            if {_arg} is not set:
-                broadcast "&cInvalid difficulty. Use peaceful, easy, normal, or hard."
-                stop
-            set the difficulty of "world" to {_arg}
-            broadcast "&aServer difficulty set to &e%{_arg}%&a."
-        else:
-            {dc} = get the difficulty of "world"
-            broadcast "&aCurrent server difficulty is &e%{dc}%&a."
+on first join:
+    broadcast "%player% has entered MetalCraft. May the gods have mercy on their soul."
+
+command /init:
+    usage: A command to set up the MetalCraft server.
+    permission: skript.command.broadcast
+    permission message: You don't have permission to init the server
+    cooldown: 15 seconds
+    executable by: players and console
+    trigger: execute console command "/function minicore:settings/menus/lives/toggles/lives_5"
+             broadcast "&a[Server] initial lives set to 5."
