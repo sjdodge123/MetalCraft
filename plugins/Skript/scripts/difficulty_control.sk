@@ -3,7 +3,7 @@
 # Set difficulty to easy when the server starts
 on Skript start:
     set the difficulty of "world" to easy
-    execute console command "/minicore:life_reset_5"
+    execute console command "/function minicore:settings/menus/lives/toggles/lives_5"
     broadcast "&a[Server] Difficulty set to &eeasy&a on startup."
 
 # Modify the /difficulty command
