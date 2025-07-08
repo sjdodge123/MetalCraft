@@ -1,6 +1,6 @@
 on skript start:
-    set difficulty to "normal"
-    broadcast "Difficulty adjusted to Normal"
+    set {server.difficulty} to "normal"
+    broadcast "Difficulty adjusted to Normal."
 
 
 command /em:
@@ -9,4 +9,5 @@ command /em:
     permission: scoreboard.toggle
     permission message: &cYou don't have the permission to change the difficulty.
     executable by: players and console
-    trigger: set difficulty to "normal"
+    trigger: set {server.difficulty} to "normal"
+             broadcast "Difficulty adjusted to Normal."
