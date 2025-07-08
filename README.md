@@ -100,3 +100,8 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/leash-villager
 - https://modrinth.com/datapack/silkiest-touch
 - https://modrinth.com/datapack/gm4-cozy-campfires
+- https://gm4.co/modules/mysterious-midnights
+- https://gm4.co/modules/midnight-menaces
+- https://gm4.co/modules/ink-spitting-squid
+- https://gm4.co/modules/guidebook
+- https://gm4.co/modules/apple-trees
