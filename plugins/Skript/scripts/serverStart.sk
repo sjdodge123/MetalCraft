@@ -1,3 +1,13 @@
 on skript start:
     set the difficulty of "world" to normal
     broadcast "Difficulty adjusted to Normal"
+
+
+
+command /em:
+    aliases: /easymode
+    description: Set the difficulty to normal
+    permission: scoreboard.toggle
+    permission message: &cYou don't have the permission to change the difficulty.
+    executable by: players and console
+    trigger: set the difficulty of "world" to normal
