@@ -4,14 +4,21 @@
 on Skript start:
     set the difficulty of "world" to easy
     execute console command "/scoreboard players set BaseDifficulty fkbm.options 1"
+    execute console command "/function minicore:settings/menus/lives/toggles/lives_5"
     broadcast "&a[Server] Difficulty set to &eeasy&a on startup."
 
 on first join:
     broadcast "%player% has entered MetalCraft. May the gods have mercy on their soul."
+    play sound "ENTITY_LIGHTNING_BOLT_IMPACT"
+
+on level up:
+   play sound "custom.metal_intro" to the player
+
+on death of player:
     play sound "ENTITY_LIGHTNING_BOLT_THUNDER"
 
-on level change:
-   play sound "custom.metal_intro" to the player
+on respawn:
+    play sound "BLOCK_BELL_USE" to the player
 
 command /init:
     usage: A command to set up the MetalCraft server.
