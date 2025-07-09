@@ -3,6 +3,7 @@
 # Set difficulty to easy when the server starts
 on Skript start:
     set the difficulty of "world" to easy
+    execute console command "/scoreboard players set BaseDifficulty fkbm.options 1"
     broadcast "&a[Server] Difficulty set to &eeasy&a on startup."
 
 on first join:
@@ -12,10 +13,6 @@ on first join:
 on level change:
    play sound "custom.metal_intro" to the player
 
-command /metal:
-    trigger:
-        play sound "custom.metal_intro"
-
 command /init:
     usage: A command to set up the MetalCraft server.
     permission: skript.command.broadcast
@@ -24,4 +21,5 @@ command /init:
     executable by: players and console
     trigger: 
         execute console command "/function minicore:settings/menus/lives/toggles/lives_5"
+        execute console command "/scoreboard players set BaseDifficulty fkbm.options 1"
         broadcast "&a[Server] initial lives set to 5."

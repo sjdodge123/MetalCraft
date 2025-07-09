@@ -95,7 +95,7 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/better-furnace
 - https://wiki.aurelium.dev/auraskills
 - https://modrinth.com/datapack/multiplayer-sleep
-- https://modrinth.com/datapack/craftable-nether-star
+- https://modrinth.com/datapack/craftable-nether-starcraf
 - https://modrinth.com/datapack/just-atlas
 - https://modrinth.com/datapack/leash-villager
 - https://modrinth.com/datapack/silkiest-touch
