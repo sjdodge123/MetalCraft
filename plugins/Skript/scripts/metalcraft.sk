@@ -3,19 +3,17 @@
 # Set difficulty to easy when the server starts
 on Skript start:
     set the difficulty of "world" to easy
-    execute console command "/scoreboard players set BaseDifficulty fkbm.options 1"
-    execute console command "/function minicore:settings/menus/lives/toggles/lives_5"
     broadcast "&a[Server] Difficulty set to &eeasy&a on startup."
 
 on first join:
     broadcast "%player% has entered MetalCraft. May the gods have mercy on their soul."
-    play sound "ENTITY_LIGHTNING_BOLT_IMPACT"
+    play sound "ENTITY_LIGHTNING_BOLT_IMPACT" to all players
 
 on level up:
    play sound "custom.metal_intro" to the player
 
 on death of player:
-    play sound "ENTITY_LIGHTNING_BOLT_THUNDER"
+    play sound "ENTITY_LIGHTNING_BOLT_THUNDER" to all players
 
 on respawn:
     play sound "BLOCK_BELL_RESONATE" to the player
@@ -27,6 +25,6 @@ command /init:
     cooldown: 15 seconds
     executable by: players and console
     trigger: 
-        execute console command "/function minicore:settings/menus/lives/toggles/lives_5"
-        execute console command "/scoreboard players set BaseDifficulty fkbm.options 1"
+        player command "/function minicore:settings/menus/lives/toggles/lives_5"
+        player command "/scoreboard players set BaseDifficulty fkbm.options 1"
         broadcast "&a[Server] initial lives set to 5."
