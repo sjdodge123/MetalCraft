@@ -110,3 +110,15 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/amethyst-expansion-dp
 - https://modrinth.com/datapack/adrenaline-rush
 - https://modrinth.com/datapack/fokusapi
+- https://modrinth.com/datapack/moss-ruins
+- https://modrinth.com/datapack/repurposed-trims
+- https://modrinth.com/datapack/replantment/
+- https://modrinth.com/datapack/localizedfishingtables
+- https://modrinth.com/datapack/structurepack
+- https://modrinth.com/datapack/chain-armor-recipe
+- https://modrinth.com/datapack/fallen_logs
+- https://modrinth.com/datapack/fallen-fungus
+- https://modrinth.com/datapack/mangrove-tower
+- https://modrinth.com/datapack/water-wells-updated
+- https://modrinth.com/datapack/lodestone-update-backport
+- https://modrinth.com/datapack/waystones-data-pack

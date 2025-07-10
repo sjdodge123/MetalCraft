@@ -18,7 +18,7 @@ on death of player:
     play sound "ENTITY_LIGHTNING_BOLT_THUNDER"
 
 on respawn:
-    play sound "BLOCK_BELL_USE" to the player
+    play sound "BLOCK_BELL_RESONATE" to the player
 
 command /init:
     usage: A command to set up the MetalCraft server.
