@@ -7,12 +7,14 @@ on Skript start:
 
 on first join:
     broadcast "%player% has entered MetalCraft. May the gods have mercy on their soul."
+    strike lightning effect at target block of player
     play sound "ENTITY_LIGHTNING_BOLT_IMPACT" to all players
 
 on level up:
    play sound "custom.metal_intro" to the player
 
 on death of player:
+    strike lightning effect at target block of victim
     play sound "ENTITY_LIGHTNING_BOLT_THUNDER" to all players
 
 on respawn:
@@ -27,4 +29,5 @@ command /init:
     trigger: 
         player command "/function minicore:settings/menus/lives/toggles/lives_5"
         player command "/scoreboard players set BaseDifficulty fkbm.options 1"
+        player command "/scoreboard players set SeasonLength _seasons 5"
         broadcast "&a[Server] initial lives set to 5."
