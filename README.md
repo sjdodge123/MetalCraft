@@ -78,7 +78,6 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/dimension-messages
 - https://modrinth.com/datapack/tqs-track-playtime-in-tab
 - https://modrinth.com/datapack/gm4-enderman-support-class
-- https://modrinth.com/datapack/health_indicator
 - https://modrinth.com/datapack/cheaper-maps
 - https://modrinth.com/datapack/loot-bags
 - https://modrinth.com/datapack/call-your-horse
