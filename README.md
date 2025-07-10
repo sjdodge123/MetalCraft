@@ -56,7 +56,6 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/dungeons-and-taverns-stronghold-overhaul
 - https://modrinth.com/datapack/hearths
 - https://modrinth.com/datapack/gm4-better-fire
-- https://www.planetminecraft.com/data-pack/adrenaline-rush/
 - https://modrinth.com/datapack/timber-striketr
 - https://modrinth.com/datapack/better-end-cities-(vanilla)/gallery
 - https://modrinth.com/datapack/structory-towers
@@ -106,3 +105,8 @@ Contains the following Datapacks
 - https://gm4.co/modules/guidebook
 - https://gm4.co/modules/apple-trees
 - https://modrinth.com/datapack/immersive-sound
+- https://modrinth.com/datapack/saddle-crafting-backport
+- https://modrinth.com/datapack/ppgs-weapon-expansion
+- https://modrinth.com/datapack/amethyst-expansion-dp
+- https://modrinth.com/datapack/adrenaline-rush
+- https://modrinth.com/datapack/fokusapi
