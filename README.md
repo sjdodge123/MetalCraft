@@ -166,3 +166,4 @@ Social
 - https://modrinth.com/datapack/dimension-messages
 - https://modrinth.com/datapack/show-dimension-in-name
 - https://modrinth.com/datapack/multiplayer-sleep
+- https://modrinth.com/plugin/simple-voice-chat
