@@ -11,7 +11,7 @@ on first join:
     play sound "ENTITY_LIGHTNING_BOLT_IMPACT" to all players
 
 on level up:
-   play sound "custom.metal_intro" to the player
+   play sound "custom.metal_intro" at target block of player
 
 on death of player:
     strike lightning effect at target block of victim

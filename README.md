@@ -121,3 +121,7 @@ Contains the following Datapacks
 - https://modrinth.com/datapack/water-wells-updated
 - https://modrinth.com/datapack/lodestone-update-backport
 - https://modrinth.com/datapack/waystones-data-pack
+- https://modrinth.com/datapack/mine-treasure
+- https://modrinth.com/datapack/deadly-deadly-dungeon
+- https://modrinth.com/datapack/zombie-horsemen
+- https://modrinth.com/datapack/villager-guards
