@@ -96,11 +96,13 @@ Combat
 - https://modrinth.com/datapack/amethyst-expansion-dp
 - https://modrinth.com/datapack/adrenaline-rush
 - https://modrinth.com/datapack/repurposed-trims
+- https://modrinth.com/datapack/lingering-arrows
 
 Movement
 - https://modrinth.com/datapack/climbable-chains
 - https://gm4.co/modules/ziprails
 - https://gm4.co/modules/vertical-rails
+- https://modrinth.com/datapack/horses-can-float
 
 QOL
 - https://modrinth.com/datapack/spawn-animations
@@ -120,6 +122,9 @@ QOL
 - https://gm4.co/modules/apple-trees
 - https://modrinth.com/datapack/immersive-sound
 - https://modrinth.com/datapack/mine-treasure
+- https://modrinth.com/datapack/horse-trumpet
+- https://modrinth.com/datapack/villager-transportation
+- https://modrinth.com/datapack/potions-description
 
 Recipe Changes
 - https://modrinth.com/datapack/craftable-totem-of-undying
@@ -130,6 +135,8 @@ Recipe Changes
 - https://modrinth.com/datapack/chain-armor-recipe
 - https://modrinth.com/datapack/gp-copper
 - https://modrinth.com/datapack/copper-shields
+- https://modrinth.com/datapack/horse-armor-smithing
+- https://modrinth.com/datapack/craft-horse-armor
 
 Base Building
 - https://modrinth.com/datapack/racks
