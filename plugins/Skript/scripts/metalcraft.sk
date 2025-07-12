@@ -30,4 +30,5 @@ command /init:
         player command "/function minicore:settings/menus/lives/toggles/lives_5"
         player command "/scoreboard players set BaseDifficulty fkbm.options 1"
         player command "/scoreboard players set SeasonLength _seasons 5"
+        player command "/function mt:settings"
         broadcast "&a[Server] initial lives set to 5."
