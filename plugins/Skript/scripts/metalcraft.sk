@@ -11,7 +11,7 @@ on first join:
     play sound "ENTITY_LIGHTNING_BOLT_IMPACT" to all players
 
 on level up:
-   play sound "custom.metal_intro" at target block of player
+   play sound "custom.metal_intro" with volume 0.5 at target block of player
 
 on death of player:
     strike lightning effect at target block of victim
@@ -27,6 +27,7 @@ command /init:
     cooldown: 15 seconds
     executable by: players and console
     trigger: 
+        player command "/difficulty easy"
         player command "/function minicore:settings/menus/lives/toggles/lives_5"
         player command "/scoreboard players set BaseDifficulty fkbm.options 1"
         player command "/scoreboard players set SeasonLength _seasons 5"
