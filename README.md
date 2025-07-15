@@ -97,6 +97,7 @@ Combat
 - https://modrinth.com/datapack/adrenaline-rush
 - https://modrinth.com/datapack/repurposed-trims
 - https://modrinth.com/datapack/lingering-arrows
+- https://www.planetminecraft.com/data-pack/enchantment-1-16/
 
 Movement
 - https://modrinth.com/datapack/climbable-chains
@@ -125,6 +126,7 @@ QOL
 - https://modrinth.com/datapack/horse-trumpet
 - https://modrinth.com/datapack/villager-transportation
 - https://modrinth.com/datapack/potions-description
+- https://modrinth.com/datapack/enchantment-descriptions-java
 
 Recipe Changes
 - https://modrinth.com/datapack/craftable-totem-of-undying
