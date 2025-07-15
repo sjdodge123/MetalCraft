@@ -126,6 +126,7 @@ QOL
 - https://modrinth.com/datapack/horse-trumpet
 - https://modrinth.com/datapack/villager-transportation
 - https://modrinth.com/datapack/potions-description
+- https://modrinth.com/datapack/illumination
 
 Recipe Changes
 - https://modrinth.com/datapack/craftable-totem-of-undying
