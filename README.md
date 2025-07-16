@@ -98,6 +98,7 @@ Combat
 - https://modrinth.com/datapack/repurposed-trims
 - https://modrinth.com/datapack/lingering-arrows
 - https://www.planetminecraft.com/data-pack/enchantment-1-16/
+- https://modrinth.com/datapack/enchantable-mace
 
 Movement
 - https://modrinth.com/datapack/climbable-chains
