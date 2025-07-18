@@ -132,7 +132,7 @@ QOL
 Recipe Changes
 - https://modrinth.com/datapack/craftable-totem-of-undying
 - https://modrinth.com/datapack/cheaper-maps
-- https://modrinth.com/datapack/craftable-nether-starcraf
+- https://modrinth.com/datapack/craftable-nether-star
 - https://modrinth.com/datapack/just-atlas
 - https://modrinth.com/datapack/saddle-crafting-backport
 - https://modrinth.com/datapack/chain-armor-recipe
