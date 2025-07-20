@@ -3,9 +3,18 @@ Files for the MetalCraft Pelican Egg Hardcore Minecraft server. A collection of 
 
 *Compatible with Vanilla Minecraft version 1.21.4*
 
+To get the mini map with waypoints, screen recorder and local proximity voice chat install the client side mods
+
+Client side mod instructions:
+1) Download mod folder: client_side_mods.zip and extract the folder
+2) Install vanilla Minecraft using the Minecraft launcher and launch it once. 
+3) Install the fabric launcher:  Download and extract the client_side_mods.zip. Run the iris .jar file in the root directory. CLICK Iris + Fabric option and make sure to change your version to 1.21.4. Install it in the same location as your Minecraft launcher. It should default to the right place. 
+4) Copy mods into the minecraft folder: Once the iris/fabric launcher is installed. Navigate to that .minecraft directory. You can find this by opening a file explorer and typing in %appdata% in the address bar and pressing enter. This is where minecraft is installed on windows. It will differ on mac/linux. 
+Copy the contents of the extracted cleitn_side_mods zip into the root .minecraft folder  so that the folders merge. Mods into the mods folder shaderpacks into shaderpacks etc
+5) Launch the fabric version of Minecraft through the minecraft launcher. Under multiplayer add server minecraft.gamernight.net
+
 
 Contains the following Datapacks
-
 
 World Gen
 - https://modrinth.com/datapack/hopo-better-mineshaft
