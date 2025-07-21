@@ -4,7 +4,7 @@
         "version": "PLCN_v1",
         "update_url": null
     },
-    "exported_at": "2025-07-21T17:14:22+00:00",
+    "exported_at": "2025-07-21T17:53:42+00:00",
     "name": "Metalcraft Minecraft",
     "author": "panel@example.com",
     "uuid": "9ac39f3d-0c34-4d93-8174-c52ab9e6c57d",
@@ -25,7 +25,7 @@
     "file_denylist": [],
     "startup": "java -Xms11776M -Xmx11776M -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1HeapRegionSize=8M -XX:G1HeapWastePercent=5 -XX:G1MaxNewSizePercent=40 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1NewSizePercent=30 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:G1ReservePercent=20 -XX:InitiatingHeapOccupancyPercent=15 -XX:MaxGCPauseMillis=200 -XX:MaxTenuringThreshold=1 -XX:SurvivorRatio=32 -Dusing.aikars.flags=https:\/\/mcflags.emc.gs -Daikars.new.flags=true -jar paper-1.21.4-82.jar nogui",
     "config": {
-        "files": "{\n    \"server.properties\": {\n        \"parser\": \"properties\",\n        \"find\": {\n            \"server-ip\": \"0.0.0.0\",\n            \"server-port\": \"{{server.allocations.default.port}}\",\n            \"query.port\": \"{{server.allocations.default.port}}\",\n            \"network-compression-threshold\": \"256\",\n            \"simulation-distance\":\"4\",\n            \"motd\":\"Metalcraft\",\n            \"view-distance\":\"7\",\n            \"spawn-protection\":\"0\",\n            \"sync-chunk-writes\":\"false\",\n            \"difficulty\":\"easy\",\n            \"resource-pack\":\"https:\/\/download.mc-packs.net\/pack\/a8f46ae74933b9cafc13272af86abc7f5c833393.zip\",\n            \"resource-pack-sha1\":\"a8f46ae74933b9cafc13272af86abc7f5c833393\",\n            \"hardcore\": \"false\"\n        }\n    },\n    \"eula.txt\": {\n        \"parser\": \"properties\",\n        \"find\": {\n            \"eula\": \"true\"\n        }\n    }\n}",
+        "files": "{\n    \"server.properties\": {\n        \"parser\": \"properties\",\n        \"find\": {\n            \"server-ip\": \"0.0.0.0\",\n            \"server-port\": \"{{server.allocations.default.port}}\",\n            \"query.port\": \"{{server.allocations.default.port}}\",\n            \"network-compression-threshold\": \"256\",\n            \"simulation-distance\":\"4\",\n            \"motd\":\"Metalcraft\",\n            \"view-distance\":\"7\",\n            \"spawn-protection\":\"0\",\n            \"sync-chunk-writes\":\"false\",\n            \"difficulty\":\"easy\",\n            \"resource-pack\":\"https:\/\/download.mc-packs.net\/pack\/3daefff8a6511d5459bc651c8882e4c6e6ef837e.zip\",\n            \"resource-pack-sha1\":\"3daefff8a6511d5459bc651c8882e4c6e6ef837e\",\n            \"hardcore\": \"false\"\n        }\n    },\n    \"eula.txt\": {\n        \"parser\": \"properties\",\n        \"find\": {\n            \"eula\": \"true\"\n        }\n    }\n}",
         "startup": "{\r\n    \"done\": \")! For help, type \"\r\n}",
         "logs": "{}",
         "stop": "stop"

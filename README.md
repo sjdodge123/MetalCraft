@@ -69,6 +69,8 @@ World Gen
 - https://modrinth.com/datapack/incendium
 - https://modrinth.com/datapack/piglin-conservatory
 - https://modrinth.com/datapack/nullscape
+- https://modrinth.com/datapack/deformation-dimension
+- https://modrinth.com/datapack/qraftys-end-villages
 
 Mechanic Changes
 - https://modrinth.com/datapack/gm4-better-fire
@@ -92,6 +94,8 @@ Mechanic Changes
 - https://gm4.co/modules/potion-swords
 - https://modrinth.com/datapack/true-ending
 - https://modrinth.com/datapack/better-nether-mobs
+- https://modrinth.com/datapack/gm4-end-fishing
+
 
 
 Combat
@@ -154,6 +158,7 @@ Recipe Changes
 - https://modrinth.com/datapack/copper-shields
 - https://modrinth.com/datapack/horse-armor-smithing
 - https://modrinth.com/datapack/craft-horse-armor
+- https://modrinth.com/datapack/enderite-reimagined
 
 Base Building
 - https://modrinth.com/datapack/racks
