@@ -66,6 +66,8 @@ World Gen
 - https://modrinth.com/datapack/deadly-deadly-dungeon
 - https://modrinth.com/datapack/zombie-horsemen
 - https://modrinth.com/datapack/villager-guards
+- https://modrinth.com/datapack/incendium
+- https://modrinth.com/datapack/piglin-conservatory
 
 Mechanic Changes
 - https://modrinth.com/datapack/gm4-better-fire
