@@ -68,6 +68,7 @@ World Gen
 - https://modrinth.com/datapack/villager-guards
 - https://modrinth.com/datapack/incendium
 - https://modrinth.com/datapack/piglin-conservatory
+- https://modrinth.com/datapack/nullscape
 
 Mechanic Changes
 - https://modrinth.com/datapack/gm4-better-fire
@@ -89,6 +90,8 @@ Mechanic Changes
 - https://modrinth.com/datapack/localizedfishingtables
 - https://modrinth.com/datapack/waystones-data-pack
 - https://gm4.co/modules/potion-swords
+- https://modrinth.com/datapack/true-ending
+- https://modrinth.com/datapack/better-nether-mobs
 
 
 Combat
