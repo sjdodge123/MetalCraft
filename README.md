@@ -71,6 +71,7 @@ World Gen
 - https://modrinth.com/datapack/nullscape
 - https://modrinth.com/datapack/deformation-dimension
 - https://modrinth.com/datapack/qraftys-end-villages
+- https://modrinth.com/datapack/dungeons-and-taverns-end-castle-standalone
 
 Mechanic Changes
 - https://modrinth.com/datapack/gm4-better-fire
@@ -132,7 +133,6 @@ QOL
 - https://modrinth.com/datapack/dynamic-lights
 - https://www.planetminecraft.com/data-pack/custom-day-cycle-length/
 - https://modrinth.com/datapack/vanilla-refresh
-- https://modrinth.com/datapack/librarians-balance
 - https://modrinth.com/datapack/timber-strike
 - https://modrinth.com/datapack/stackable-stews
 - https://modrinth.com/datapack/rarity-tooltips
