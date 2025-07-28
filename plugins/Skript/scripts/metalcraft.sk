@@ -28,7 +28,7 @@ command /init:
     executable by: players and console
     trigger: 
         player command "/difficulty easy"
-        player command "/function minicore:settings/menus/lives/toggles/lives_5"
+        player command "/function hcrplus:settings/menus/lives/toggles/lives_5"
         player command "/scoreboard players set BaseDifficulty fkbm.options 1"
         player command "/scoreboard players set SeasonLength _seasons 5"
         player command "/function mt:settings"
